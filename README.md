@@ -121,9 +121,9 @@ fun_fact: >
 
 <!-- Update these manually when you publish new articles -->
 
-- 📘 [From Classroom to Cloud: My Journey Begins](https://medium.com/@ameerhamza134855/from-classroom-to-cloud-my-journey-begins-803c864286e1)
+- 📘 [From Classroom to Cloud: My Journey Begins](https://medium.com/@ameerhamza_cloud/from-classroom-to-cloud-my-journey-begins-803c864286e1)
 
-➡️ [Read all articles on Medium →](https://medium.com/@ameerhamza134855)
+➡️ [Read all articles on Medium →](https://medium.com/@ameerhamza_cloud)
 
 
 ---
