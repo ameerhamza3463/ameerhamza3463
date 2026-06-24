@@ -178,6 +178,6 @@ fun_fact: >
 
 [![](https://komarev.com/ghpvc/?username=ameerhamza3463&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/ameerhamza3463)
 
-*Based in Karachi, Pakistan · Open to research collaborations and academic connections*
+*Based in Karachi, Pakistan ·· Open to research collaborations and academic connections*
 
 </div>
